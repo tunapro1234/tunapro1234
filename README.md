@@ -2,6 +2,8 @@
 
 Üniversite sınavı geçince burayı biraz daha şekillendiririm.
 
+Html yazmıyorum cython annotate yüzünden öyle gözüküyor bir dahakine gitignorea atacağım
+
 - 🌱 I’m currently learning C++, Rust
 - 🤔 I’m looking for help with [megaboi](https://github.com/tunapro1234/MEGABOI), [RSP](https://github.com/ro-bat/RSP)
 - 📫 How to reach me: tunagul54@gmail.com
