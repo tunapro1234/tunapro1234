@@ -4,7 +4,6 @@
 
 Html yazmıyorum cython annotate yüzünden öyle gözüküyor bir dahakine gitignorea atacağım
 
-- 🌱 I’m currently learning C++, Rust
-- 🤔 I’m looking for help with [megaboi](https://github.com/tunapro1234/MEGABOI), [RSP](https://github.com/ro-bat/RSP)
+- 🌱 I’m currently learning C, Rust
 - 📫 How to reach me: tunagul54@gmail.com
 - ⚡ Fun fact: I am a student (not funny i am in great pain please help me)
