@@ -1,4 +1,4 @@
-# TUNAPRO the Chief Innovator of Creative Chaos
+# Supreme Leader of Robots
 
 Welcome to my GitHub! I'm an embedded programmer with a big interest in robotics, a Rust enthusiast, and a civil engineering student at Boğaziçi University. When I'm not coding, I enjoy diving into some complex compositions—you might say it's the kind of music that doesn't mind if you chew gum while thinking.  I’m also one of the co-founders of [NFR Products](https://nfrproducts.com), where we’re working on all sorts of cool projects in the robotics space. I’ve been involved in FRC since 2019, so robotics has a big place in my life. 
 
