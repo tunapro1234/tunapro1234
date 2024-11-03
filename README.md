@@ -49,7 +49,7 @@ I have many more projects, but most are private for now.
 - GitHub: [@tunapro1234](https://github.com/tunapro1234)
 - NFR Forums: [nfrforums.com](https://nfrforums.com)
 - Stack Overflow: [tunapro1234](https://stackoverflow.com/users/13826401/tunapro1234)
-- NFR Mail: tuna.gul@nfrproducts.com
+- Mail: tuna.gul@nfrproducts.com
 - University Mail: tuna.gul@std.bogazici.edu.tr
 
 ---
