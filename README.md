@@ -18,6 +18,8 @@ Welcome to my GitHub! I'm an embedded programmer with a big interest in robotics
 
 - **alpay\_ftc**: An AI-driven project aimed at robotics competitions, where I’m developing an AI driver to replace human drivers. This uses Docker, ROS2, Go, and AI, and it’s not just about the driving—it also lets us simulate FTC robots in ROS. I’m using this environment to test potential NFR Products software releases, so it’s a major step toward our future product line.
 
+- **probot_lib**: An Arduino library tailored for robotics competitions, offering seamless integration with Wi-Fi communication, joystick controls, and modular subsystems like sliders and arms. It supports both **autonomous** and **teleop** modes while providing feedback control via **PID controllers** and motor drivers. The project is currently in its **Alpha phase**, tested exclusively on **NodeMCU boards**. This library is also part of our vision for simplifying robotic programming for students and hobbyists.
+
 ---
 
 ### Some Past Projects
