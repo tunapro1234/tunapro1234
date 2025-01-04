@@ -14,8 +14,6 @@ Welcome to my GitHub! I'm an embedded programmer with a big interest in robotics
 
 ### Current Projects
 
-- **elevator\_optimization**: This is a Rust-based framework I’m building to test the efficiency of elevator algorithms. It’s more than just algorithms; it includes a neural network (trained with a genetic algorithm!) to explore and improve elevator performance. It’s exciting to see how different algorithms measure up under simulated conditions.
-
 - **alpay\_ftc**: An AI-driven project aimed at robotics competitions, where I’m developing an AI driver to replace human drivers. This uses Docker, ROS2, Go, and AI, and it’s not just about the driving—it also lets us simulate FTC robots in ROS. I’m using this environment to test potential NFR Products software releases, so it’s a major step toward our future product line.
 
 - **probot_lib**: An Arduino library tailored for robotics competitions, offering seamless integration with Wi-Fi communication, joystick controls, and modular subsystems like sliders and arms. It supports both **autonomous** and **teleop** modes while providing feedback control via **PID controllers** and motor drivers. The project is currently in its **Alpha phase**, tested exclusively on **NodeMCU boards**. This library is also part of our vision for simplifying robotic programming for students and hobbyists.
@@ -25,6 +23,8 @@ Welcome to my GitHub! I'm an embedded programmer with a big interest in robotics
 ### Some Past Projects
 
 *Most of these were personal experiments, so they're a bit hard to read – README files were a luxury back then. I never expected anyone else to look at them :-(*
+
+- **elevator\_optimization**: This is a Rust-based framework I’m building to test the efficiency of elevator algorithms. It’s more than just algorithms; it includes a neural network (trained with a genetic algorithm!) to explore and improve elevator performance. It’s exciting to see how different algorithms measure up under simulated conditions. We created this project for Boğaziçi AI's competition (and we won yaay).
 
 - **vector-h**: My first pure C project from four years ago. It’s a C99 macro that lets you create vector classes for any type, so you get some flexibility even in C. This was one of my first experiences diving deep into low-level programming, and it laid the groundwork for some of my later work in Rust.
 
